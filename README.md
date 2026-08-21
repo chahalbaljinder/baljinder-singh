@@ -1,22 +1,107 @@
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chahalbaljinder&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+# Hi, I'm Baljinder Singh
 
-# 💫 About Me:
-🔭 Currently working on:<br>AutoContent.AI – an autonomous content platform using LangChain, CrewAI & GitHub Actions.<br><br>👯 Looking to collaborate on:<br>AI/ML projects, Generative AI, and LLM-based systems.<br><br>🤝 Need help with:<br>Scaling agent workflows and deploying AI in production.<br><br>🌱 Learning:<br>Multi-agent coordination, LLM fine-tuning, and MLOps.<br><br>💬 Ask me about:<br>LangChain, Python, Generative AI, and ML pipelines.<br><br>⚡ Fun fact:<br>Built a smart AI financial advisor that analyzes live market trends.
+### Technical Product & Project | AI/GenAI | Enterprise SaaS | MVP Delivery
 
+I work at the intersection of **product, technology, and business**, translating
+complex problems into structured product requirements, technical solutions,
+and scalable software.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+My experience spans **AI/ML systems, enterprise SaaS, product discovery,
+solution architecture, and cross-functional delivery**, with a particular
+interest in building AI-enabled products that solve real operational problems.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/baljinder-singh-595818174) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:balliji913@gmail.com) 
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chahalbaljinder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=chahalbaljinder&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chahalbaljinder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## What I Work On
 
+- AI & GenAI Product Development
+- Product Discovery & MVP Definition
+- Technical Project Delivery
+- Enterprise SaaS Architecture
+- Agentic AI & LLM Workflows
+- Data-Driven Product Development
+- API & System Integrations
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chahalbaljinder&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+---
 
+## Featured Work
+
+### LenderOS — Multi-Tenant Lending Operating System
+
+A lending technology platform designed around three major experiences:
+
+**Borrowers • Financial Institutions • Platform Operators**
+
+Exploring multi-tenant architecture, RBAC, borrower onboarding, lending
+workflows, document management, approvals, disbursement and collections.
+
+---
+
+### OmniRAG — RAG & Document Intelligence Platform
+
+Production-oriented RAG architecture combining document ingestion, semantic
+retrieval, LLM-powered responses and API-driven services.
+
+**Focus:** RAG • Vector Search • FastAPI • LLM APIs • RBAC • Docker
+
+---
+
+### SUPER SCADA — AI Forecasting & Operational Analytics
+
+AI/ML forecasting and analytics work developed around large-scale operational
+data.
+
+**20M+ records | N-BEATS | 81%+ forecasting accuracy**
+
+**Focus:** Time-Series Forecasting • Data Pipelines • RabbitMQ • Grafana
+
+---
+
+### Agentic Data Intelligence Platform
+
+Multi-agent system for natural-language interaction with structured data,
+coordinating specialized agents for data understanding, querying, analysis,
+visualization and insight generation.
+
+**Focus:** Agentic AI • LLMs • Analytics • Multi-Agent Orchestration
+
+---
+
+### Product Discovery & Marketplace Systems
+
+Product exploration covering marketplace workflows, user/provider journeys,
+requirements, booking, payments, ratings and platform operations.
+
+**Focus:** Product Discovery • PRDs • User Journeys • MVP Definition
+
+---
+
+## Technical Foundation
+
+**AI & Data:**  
+Python • SQL • AI/ML • LLMs • RAG • Agentic AI • LangChain • LangGraph
+
+**Backend & Systems:**  
+FastAPI • REST APIs • PostgreSQL • MongoDB • RabbitMQ
+
+**Cloud & Delivery:**  
+AWS • Docker • Git • GitHub Actions
+
+**Product & Delivery:**  
+Product Discovery • Requirements • User Stories • Agile/Scrum •
+Solution Architecture • Technical Project Management
+
+---
+
+## Current Focus
+
+I'm particularly interested in problems involving:
+
+**AI Products • FinTech • Enterprise SaaS • Technical Product Management •
+AI Product Discovery • MVP Delivery**
+
+---
+
+## Connect
+
+LinkedIn: [Baljinder Singh](https://www.linkedin.com/in/singhbaljinder23/)
